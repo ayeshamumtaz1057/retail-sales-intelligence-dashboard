@@ -1,0 +1,16 @@
+city,state,region,sales,profit,margin_pct,orders
+New York City,New York,East,256368.16,62036.98,24.2,450
+Los Angeles,California,West,175851.34,30440.76,17.31,384
+Seattle,Washington,West,119540.74,29156.1,24.39,212
+San Francisco,California,West,112669.09,17507.39,15.54,265
+Philadelphia,Pennsylvania,East,109077.01,-13837.77,-12.69,265
+Houston,Texas,Central,64504.76,-10153.55,-15.74,188
+Chicago,Illinois,Central,48539.54,-6654.57,-13.71,171
+San Diego,California,West,47521.03,6377.2,13.42,88
+Detroit,Michigan,Central,42446.94,13181.79,31.05,53
+Jacksonville,Florida,South,39133.33,-2445.66,-6.25,38
+San Antonio,Texas,Central,21843.53,-7299.05,-33.42,27
+Newark,Delaware,East,20448.05,8086.17,39.54,29
+Dallas,Texas,Central,20131.93,-2846.53,-14.14,80
+Lafayette,Indiana,Central,19630.45,8976.1,45.73,7
+Atlanta,Georgia,South,17197.84,6993.66,40.67,17

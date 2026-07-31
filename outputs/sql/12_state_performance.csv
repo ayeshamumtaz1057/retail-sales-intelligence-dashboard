@@ -1,0 +1,50 @@
+state,region,sales,profit,margin_pct,orders
+California,West,457687.63,76381.39,16.69,1021
+New York,East,310876.27,74038.55,23.82,562
+Texas,Central,170188.05,-25729.36,-15.12,487
+Washington,West,138641.27,33402.65,24.09,256
+Pennsylvania,East,116511.91,-15559.96,-13.35,288
+Florida,South,89473.71,-3399.3,-3.8,200
+Illinois,Central,80166.1,-12607.89,-15.73,276
+Ohio,East,77976.76,-16959.32,-21.75,236
+Michigan,Central,76269.61,24463.19,32.07,117
+Virginia,South,70636.72,18597.95,26.33,115
+North Carolina,South,55603.16,-7490.91,-13.47,136
+Indiana,Central,53555.36,18382.94,34.33,73
+Georgia,South,49095.84,16250.04,33.1,91
+Kentucky,South,36591.75,11199.7,30.61,61
+New Jersey,East,35764.31,9772.91,27.33,61
+Arizona,West,35282.0,-3427.92,-9.72,108
+Wisconsin,Central,32114.61,8401.8,26.16,53
+Colorado,West,32108.12,-6527.86,-20.33,79
+Tennessee,South,30661.87,-5341.69,-17.42,91
+Minnesota,Central,29863.15,10823.19,36.24,44
+Massachusetts,East,28634.43,6785.5,23.7,62
+Delaware,East,27451.07,9977.37,36.35,44
+Maryland,East,23705.52,7031.18,29.66,46
+Rhode Island,East,22627.96,7285.63,32.2,25
+Missouri,Central,22205.15,6436.21,28.99,30
+Oklahoma,Central,19683.39,4853.96,24.66,34
+Alabama,South,19510.64,5786.83,29.66,34
+Oregon,West,17431.15,-1190.47,-6.83,56
+Nevada,West,16729.1,3316.77,19.83,23
+Connecticut,East,13384.36,3511.49,26.24,45
+Arkansas,South,11678.13,4008.69,34.33,27
+Utah,West,11220.06,2546.53,22.7,26
+Mississippi,South,10771.34,3172.98,29.46,26
+Louisiana,South,9217.03,2196.1,23.83,21
+Vermont,East,8929.37,2244.98,25.14,6
+South Carolina,South,8481.71,1769.06,20.86,20
+Nebraska,Central,7464.93,2037.09,27.29,23
+New Hampshire,East,7292.52,1706.5,23.4,17
+Montana,West,5589.35,1833.33,32.8,8
+New Mexico,West,4783.52,1157.12,24.19,22
+Iowa,Central,4579.76,1183.81,25.85,17
+Idaho,West,4382.49,826.72,18.86,11
+Kansas,Central,2914.31,836.44,28.7,14
+District of Columbia,East,2865.02,1059.59,36.98,4
+Wyoming,West,1603.14,100.2,6.25,1
+South Dakota,Central,1315.56,394.83,30.01,5
+Maine,East,1270.53,454.49,35.77,3
+West Virginia,East,1209.82,185.92,15.37,2
+North Dakota,Central,919.91,230.15,25.02,2

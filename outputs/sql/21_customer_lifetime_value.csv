@@ -1,0 +1,21 @@
+clv_rank,customer_name,segment,lifetime_orders,lifetime_value,lifetime_profit,avg_order_value,rfm_segment
+1,Sean Miller,Home Office,5,25043.05,-1980.74,5008.61,Loyal
+2,Tamara Chand,Corporate,5,19052.22,8981.32,3810.44,Potential
+3,Raymond Buch,Consumer,6,15117.34,6976.1,2519.56,Loyal
+4,Tom Ashbrook,Home Office,4,14595.62,4703.79,3648.91,Loyal
+5,Adrian Barton,Consumer,10,14473.57,5444.81,1447.36,Champion
+6,Ken Lonsdale,Consumer,12,14175.23,806.86,1181.27,Champion
+7,Sanjit Chand,Consumer,9,14142.33,5757.41,1571.37,Loyal
+8,Hunter Lopez,Consumer,6,12873.3,5622.43,2145.55,Loyal
+9,Sanjit Engle,Consumer,11,12209.44,2650.68,1109.95,Champion
+10,Christopher Conant,Consumer,5,12129.07,2177.05,2425.81,Loyal
+11,Todd Sumrall,Corporate,6,11891.75,2371.71,1981.96,Loyal
+12,Greg Tran,Consumer,11,11820.12,2163.43,1074.56,Champion
+13,Becky Martin,Consumer,4,11789.63,-1659.96,2947.41,Potential
+14,Seth Vernon,Consumer,10,11470.95,1199.42,1147.09,Champion
+15,Caroline Jumper,Consumer,8,11164.97,858.74,1395.62,Loyal
+16,Clay Ludtke,Consumer,12,10880.55,1933.78,906.71,Loyal
+17,Maria Etezadi,Home Office,10,10663.73,1859.47,1066.37,Champion
+18,Karen Ferguson,Home Office,7,10604.27,1660.14,1514.9,Loyal
+19,Bill Shonely,Corporate,5,10501.65,2616.06,2100.33,Potential
+20,Edward Hooks,Corporate,12,10310.88,1393.52,859.24,Loyal

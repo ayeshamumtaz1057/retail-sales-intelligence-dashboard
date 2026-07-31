@@ -1,0 +1,5 @@
+rfm_segment,customers,pct_customers,revenue,pct_revenue,avg_orders,avg_recency_days
+Loyal,254,32.03,982539.37,42.78,7.4,75.0
+Champion,124,15.64,647435.01,28.19,9.4,28.0
+Potential,219,27.62,473123.09,20.6,5.6,138.0
+At Risk,196,24.72,193822.02,8.44,3.7,329.0

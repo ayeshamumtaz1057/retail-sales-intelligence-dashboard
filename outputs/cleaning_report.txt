@@ -1,0 +1,22 @@
+SUPERSTORE CLEANING REPORT
+==============================================
+
+Rows loaded from raw extract           : 10,800
+Removed empty shell rows               : 806
+Removed rows missing critical fields   : 0
+Removed duplicate transactions         : 1
+Postal codes imputed from city/state    : 0
+Postal codes still missing             : 11 (Burlington, Vermont)
+Ship date earlier than order date      : 0
+Rows remaining after cleaning          : 9,993
+Total rows dropped                     : 807
+
+VALIDATED TOTALS
+  Total sales      : $2,296,919.49
+  Total profit     : $286,409.08
+  Overall margin   : 12.47%
+  Orders           : 5,009
+  Customers        : 793
+  Products         : 1,862
+  Avg order value  : $458.56
+  Date range       : 2015-01-03 to 2018-12-30

@@ -1,0 +1,5 @@
+ship_mode,orders,avg_days,sales,profit,margin_pct,pct_beyond_sla
+First Class,787,2.2,351428.42,48969.84,13.93,0.0
+Second Class,964,3.2,459193.57,57446.64,12.51,0.0
+Same Day,264,0.0,128363.13,15891.76,12.38,0.0
+Standard Class,2994,5.0,1357934.37,164100.85,12.08,30.6
