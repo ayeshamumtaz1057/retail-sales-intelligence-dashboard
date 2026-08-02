@@ -3,7 +3,7 @@
 End-to-end retail analytics on 9,993 transactions: raw extract → cleaned data → feature
 engineering → SQL warehouse → statistical analysis → executive dashboard and recommendation.
 
-**[View the live dashboard →](https://YOUR-USERNAME.github.io/retail-sales-intelligence-dashboard/)** ·
+**[View the live dashboard →](🌐 Live Dashboard: https://your-dashboard-url.netlify.app)** ·
 **[Executive deck (PDF) →](presentation/Retail_Insights.pdf)**
 
 ![Dashboard](images/dashboard.png)
