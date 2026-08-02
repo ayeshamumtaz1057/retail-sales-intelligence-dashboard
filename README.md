@@ -3,7 +3,7 @@
 End-to-end retail analytics on 9,993 transactions: raw extract → cleaned data → feature
 engineering → SQL warehouse → statistical analysis → executive dashboard and recommendation.
 
-**[View the live dashboard →](🌐 Live Dashboard:https://github.com/ayeshamumtaz1057/retail-sales-intelligence-dashboard/edit/main/ )** ·
+**[View the live dashboard →](🌐 Live Dashboard:https://github.com/ayeshamumtaz1057/retail-sales-intelligence-dashboard )** ·
 **[Executive deck (PDF) →](presentation/Retail_Insights.pdf)**
 
 ![Dashboard](images/dashboard.png)
