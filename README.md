@@ -1,6 +1,5 @@
 # Retail Sales Intelligence & Executive Decision Dashboard
 
-
 End-to-end retail analytics on 9,993 transactions: raw extract → cleaned data → feature
 engineering → SQL warehouse → statistical analysis → executive dashboard and recommendation.
 
